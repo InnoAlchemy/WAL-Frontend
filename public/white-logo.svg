@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 402.19 402.19">
+  <g>
+    <polygon points="251.37 201.1 201.1 100.55 301.65 100.55 351.92 201.1 251.37 201.1" fill="#fff" opacity=".65" stroke-width="0"/>
+    <polygon points="201.1 100.55 150.82 0 251.37 0 301.65 100.55 201.1 100.55" fill="#fff" stroke-width="0"/>
+    <polygon points="100.55 301.65 150.82 201.1 50.27 201.1 0 301.65 100.55 301.65" fill="#fff" stroke-width="0"/>
+    <polygon points="150.82 201.1 201.1 100.55 100.55 100.55 50.27 201.1 150.82 201.1" fill="#fff" opacity=".65" stroke-width="0"/>
+    <polygon points="201.1 301.65 150.82 201.1 251.37 201.1 301.65 301.65 201.1 301.65" fill="#fff" opacity=".65" stroke-width="0"/>
+    <polygon points="150.82 402.19 201.1 301.65 251.37 402.19 150.82 402.19" fill="#fff" stroke-width="0"/>
+  </g>
+  <polygon points="301.65 301.65 251.37 201.1 351.92 201.1 402.19 301.65 301.65 301.65" fill="#fff" stroke-width="0"/>
+</svg>
